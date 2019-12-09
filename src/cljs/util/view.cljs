@@ -176,7 +176,7 @@
 
 (defn change-page-title
   [title]
-  (set! (.-title js/document) (str title " | Clojure News")))
+  (set! (.-title js/document) (str title " | SEO News")))
 
 (defn change-header-links-page-titles
   [token]
