@@ -214,7 +214,7 @@
   [page]
   (GET (str "/entry/job/p/" page)
        {:handler         (fn [response]
-                           (util.view/change-page-title "Clojure Jobs")
+                           (util.view/change-page-title "SEO Jobs")
                            (r/render-component [(fn []
                                                   (view.list.job/component-job response page))] util.view/main-container))
         :error-handler   util.controller/error-handler
