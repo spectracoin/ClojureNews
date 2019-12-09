@@ -184,7 +184,7 @@
     "/new" (change-page-title "Newest")
     "/story" (change-page-title "Story")
     "/ask" (change-page-title "Ask")
-    "/job" (change-page-title "Clojure Jobs")
+    "/job" (change-page-title "SEO Jobs")
     "/event" (change-page-title "Events")
     "/submit" (change-page-title "Submit")
     nil))
