@@ -136,9 +136,9 @@
   [items]
   (str "<rss version=\"2.0\">"
        "<channel>"
-       "<title>" "Clojure News" "</title>"
-       "<link>" "https://clojure.news" "</link>"
-       "<description>" "Links for the intellectually curious, ranked by Clojurists." "</description>"
+       "<title>" "SEO News" "</title>"
+       "<link>" "https://seo.news" "</link>"
+       "<description>" "Links for the intellectually curious, ranked by SEOists." "</description>"
        (apply str items)
        "</channel>"
        "</rss>"))
