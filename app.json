@@ -1,6 +1,6 @@
 {
-    "name": "Clojure News",
-    "description": "a Hacker News clone written in Clojure and ClojureScript",
+        "name": "SEO News",
+    "description": "a SEO News written in Clojure and ClojureScript",
     "repository": "https://github.com/ertugrulcetin/ClojureNews",
     "keywords": ["Clojure", "ClojureScript", "news", "hacker news"],
     "addons": ["mongolab"]
